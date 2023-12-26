@@ -44,6 +44,7 @@ pip install torch scikit-learn numpy matplotlib
 ## Dataset
 
 The script generates a circular dataset using the make_circles function from scikit-learn. It creates a dataset with 1000 samples, adding noise and a specific factor. The dataset is then visualized using matplotlib.
+![Dataset](img/dataset.png)
 
 ## Neural Network Architecture
 
