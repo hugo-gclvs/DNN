@@ -32,13 +32,13 @@ cd DNN
 
 3. Run the Python script:
 ```shell
-pip install torch scikit-learn numpy matplotlib
+python main.py
 ```
 
 
 Make sure you have the required dependencies installed before running the script. You can install the dependencies using the following command:
 ```shell
-python main.py
+pip install torch scikit-learn numpy matplotlib
 ```
 
 ## Dataset
