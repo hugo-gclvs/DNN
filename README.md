@@ -61,6 +61,7 @@ During training, the loss and accuracy are recorded and displayed using matplotl
 ## Testing
 
 After training, the script generates a small test dataset with 10 samples. It passes the test inputs through the trained neural network and compares the predictions with the ground truth labels. The binary predictions are printed to the console.
+![Dataset](img/metrics.png)
 
 Feel free to explore the code and modify it to suit your needs. If you have any questions or feedback, please open an issue or contact the repository owner.
 
